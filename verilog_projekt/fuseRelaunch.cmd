@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "F:/STUDIA/Semestr 6/Obwody drukowane/laboratorium/verilog_projekt/testbench_isim_beh.exe" -prj "F:/STUDIA/Semestr 6/Obwody drukowane/laboratorium/verilog_projekt/testbench_beh.prj" "work.testbench" "work.glbl" 

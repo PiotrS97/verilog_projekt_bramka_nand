@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "F:/STUDIA/Semestr 6/Obwody drukowane/laboratorium/verilog_projekt/veril.xst" -ofn "F:/STUDIA/Semestr 6/Obwody drukowane/laboratorium/verilog_projekt/veril.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s50-vqg100-4 "veril.ngc" veril.ngd  
+map -intstyle ise -p xa3s50-vqg100-4 -cm area -ir off -pr off -c 100 -o veril_map.ncd veril.ngd veril.pcf 
+par -w -intstyle ise -ol high -t 1 veril_map.ncd veril.ncd veril.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml veril.twx veril.ncd -o veril.twr veril.pcf 

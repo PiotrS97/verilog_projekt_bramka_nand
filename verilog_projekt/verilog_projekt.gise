@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="verilog_projekt.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="veril.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="veril.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="veril.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="veril.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="veril.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="veril.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="veril.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="veril.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="veril.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="veril.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="veril.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="veril.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="veril.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="veril.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="veril.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="veril.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="veril.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="veril.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="veril.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="veril_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="veril_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="veril_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="veril_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="veril_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="veril_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="veril_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="veril_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="veril_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="veril_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="veril_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="veril_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="veril_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="veril_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-2709233493917886625" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-3441675761109503645" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-742742209417156551" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-5586979983773051280" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800333" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="4710929969473657197" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800338" xil_pn:in_ck="156484982662" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-4564590550704571964" xil_pn:start_ts="1600800333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="veril.lso"/>
+      <outfile xil_pn:name="veril.ngc"/>
+      <outfile xil_pn:name="veril.ngr"/>
+      <outfile xil_pn:name="veril.prj"/>
+      <outfile xil_pn:name="veril.stx"/>
+      <outfile xil_pn:name="veril.syr"/>
+      <outfile xil_pn:name="veril.xst"/>
+      <outfile xil_pn:name="veril_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800338" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4066557905396439396" xil_pn:start_ts="1600800338">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800342" xil_pn:in_ck="170412146113704" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-5537014810934479890" xil_pn:start_ts="1600800338">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="veril.bld"/>
+      <outfile xil_pn:name="veril.ngd"/>
+      <outfile xil_pn:name="veril_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800345" xil_pn:in_ck="170412146113705" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="2757235694161129041" xil_pn:start_ts="1600800342">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="veril.pcf"/>
+      <outfile xil_pn:name="veril_map.map"/>
+      <outfile xil_pn:name="veril_map.mrp"/>
+      <outfile xil_pn:name="veril_map.ncd"/>
+      <outfile xil_pn:name="veril_map.ngm"/>
+      <outfile xil_pn:name="veril_map.xrpt"/>
+      <outfile xil_pn:name="veril_summary.xml"/>
+      <outfile xil_pn:name="veril_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800350" xil_pn:in_ck="-818839992700487614" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-2144672536549014353" xil_pn:start_ts="1600800345">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="veril.ncd"/>
+      <outfile xil_pn:name="veril.pad"/>
+      <outfile xil_pn:name="veril.par"/>
+      <outfile xil_pn:name="veril.ptwx"/>
+      <outfile xil_pn:name="veril.unroutes"/>
+      <outfile xil_pn:name="veril.xpi"/>
+      <outfile xil_pn:name="veril_pad.csv"/>
+      <outfile xil_pn:name="veril_pad.txt"/>
+      <outfile xil_pn:name="veril_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1600800350" xil_pn:in_ck="170412146113573" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1600800348">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="veril.twr"/>
+      <outfile xil_pn:name="veril.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>
